@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# OS / IDE
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+
+# Optional large data files
+*.zip
+*.h5
+*.pkl

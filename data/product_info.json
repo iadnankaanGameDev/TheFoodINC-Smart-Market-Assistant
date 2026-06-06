@@ -1,0 +1,530 @@
+{
+  "apple": {
+    "display_name": "Apple",
+    "category": "Fruit",
+    "calories_per_100g": "52 kcal",
+    "storage": "Keep in the refrigerator for longer freshness. Store away from strong-smelling foods.",
+    "pairs_well_with": ["cinnamon", "oats", "peanut butter", "yogurt", "walnuts"],
+    "recipe_ideas": ["Apple oatmeal", "Apple yogurt bowl", "Baked apple"]
+  },
+  "apricot": {
+    "display_name": "Apricot",
+    "category": "Fruit",
+    "calories_per_100g": "48 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["yogurt", "almonds", "honey", "oats", "cinnamon"],
+    "recipe_ideas": ["Apricot yogurt bowl", "Apricot smoothie", "Apricot compote"]
+  },
+  "apricot_dried": {
+    "display_name": "Dried Apricot",
+    "category": "Dried fruit",
+    "calories_per_100g": "240 kcal",
+    "storage": "Store in an airtight container in a cool, dry place.",
+    "pairs_well_with": ["walnuts", "almonds", "oats", "dark chocolate", "yogurt"],
+    "recipe_ideas": ["Dried fruit snack mix", "Apricot energy bites", "Oatmeal topping"]
+  },
+  "asparagus": {
+    "display_name": "Asparagus",
+    "category": "Vegetable",
+    "calories_per_100g": "20 kcal",
+    "storage": "Keep refrigerated. Wrap stems in a damp paper towel or stand them in a little water.",
+    "pairs_well_with": ["lemon", "garlic", "olive oil", "eggs", "parmesan"],
+    "recipe_ideas": ["Roasted asparagus", "Asparagus omelette", "Asparagus salad"]
+  },
+  "avocado": {
+    "display_name": "Avocado",
+    "category": "Fruit / healthy fat source",
+    "calories_per_100g": "160 kcal",
+    "storage": "Keep unripe avocados at room temperature. Refrigerate once ripe.",
+    "pairs_well_with": ["egg", "tomato", "lemon", "toast", "chilli"],
+    "recipe_ideas": ["Avocado toast", "Guacamole", "Avocado salad"]
+  },
+  "banana": {
+    "display_name": "Banana",
+    "category": "Fruit",
+    "calories_per_100g": "89 kcal",
+    "storage": "Keep at room temperature. Refrigerate only after ripening if needed.",
+    "pairs_well_with": ["peanut butter", "oats", "yogurt", "strawberry", "chocolate"],
+    "recipe_ideas": ["Banana smoothie", "Banana oatmeal", "Banana pancakes"]
+  },
+  "bean": {
+    "display_name": "Bean",
+    "category": "Legume / vegetable",
+    "calories_per_100g": "31 kcal",
+    "storage": "Keep fresh beans refrigerated in a bag or container.",
+    "pairs_well_with": ["tomato", "garlic", "onion", "olive oil", "lemon"],
+    "recipe_ideas": ["Bean salad", "Stewed beans", "Vegetable stir-fry"]
+  },
+  "beetroot": {
+    "display_name": "Beetroot",
+    "category": "Root vegetable",
+    "calories_per_100g": "43 kcal",
+    "storage": "Keep refrigerated. Remove leafy tops if attached to keep roots fresh longer.",
+    "pairs_well_with": ["yogurt", "walnuts", "goat cheese", "lemon", "garlic"],
+    "recipe_ideas": ["Beetroot salad", "Roasted beetroot", "Beetroot yogurt dip"]
+  },
+  "bell_pepper": {
+    "display_name": "Bell Pepper",
+    "category": "Vegetable",
+    "calories_per_100g": "31 kcal",
+    "storage": "Keep refrigerated in the vegetable drawer.",
+    "pairs_well_with": ["tomato", "onion", "eggplant", "cheese", "olive oil"],
+    "recipe_ideas": ["Stuffed peppers", "Pepper salad", "Vegetable sauté"]
+  },
+  "pepper": {
+    "display_name": "Pepper",
+    "category": "Vegetable",
+    "calories_per_100g": "31 kcal",
+    "storage": "Keep refrigerated in the vegetable drawer.",
+    "pairs_well_with": ["tomato", "onion", "eggplant", "cheese", "olive oil"],
+    "recipe_ideas": ["Stuffed peppers", "Pepper salad", "Vegetable sauté"]
+  },
+  "bitter_gourd": {
+    "display_name": "Bitter Gourd",
+    "category": "Vegetable",
+    "calories_per_100g": "17 kcal",
+    "storage": "Keep refrigerated and use within a few days for best texture.",
+    "pairs_well_with": ["onion", "garlic", "tomato", "chilli", "lemon"],
+    "recipe_ideas": ["Bitter gourd stir-fry", "Stuffed bitter gourd", "Bitter gourd curry"]
+  },
+  "bottle_gourd": {
+    "display_name": "Bottle Gourd",
+    "category": "Vegetable",
+    "calories_per_100g": "14 kcal",
+    "storage": "Keep refrigerated and use while firm and fresh.",
+    "pairs_well_with": ["tomato", "onion", "garlic", "yogurt", "lentils"],
+    "recipe_ideas": ["Bottle gourd stew", "Bottle gourd soup", "Vegetable curry"]
+  },
+  "broccoli": {
+    "display_name": "Broccoli",
+    "category": "Vegetable",
+    "calories_per_100g": "34 kcal",
+    "storage": "Keep refrigerated in a loose bag. Use before florets yellow.",
+    "pairs_well_with": ["garlic", "lemon", "cheese", "chicken", "olive oil"],
+    "recipe_ideas": ["Steamed broccoli", "Broccoli soup", "Broccoli pasta"]
+  },
+  "brocoli": {
+    "display_name": "Broccoli",
+    "category": "Vegetable",
+    "calories_per_100g": "34 kcal",
+    "storage": "Keep refrigerated in a loose bag. Use before florets yellow.",
+    "pairs_well_with": ["garlic", "lemon", "cheese", "chicken", "olive oil"],
+    "recipe_ideas": ["Steamed broccoli", "Broccoli soup", "Broccoli pasta"]
+  },
+  "cabbage": {
+    "display_name": "Cabbage",
+    "category": "Vegetable",
+    "calories_per_100g": "25 kcal",
+    "storage": "Keep refrigerated. Store whole cabbage unwashed for longer freshness.",
+    "pairs_well_with": ["carrot", "lemon", "yogurt", "onion", "vinegar"],
+    "recipe_ideas": ["Cabbage salad", "Stuffed cabbage", "Cabbage soup"]
+  },
+  "carrot": {
+    "display_name": "Carrot",
+    "category": "Root vegetable",
+    "calories_per_100g": "41 kcal",
+    "storage": "Keep refrigerated, preferably in a bag or container to prevent drying.",
+    "pairs_well_with": ["yogurt", "ginger", "orange", "hummus", "cabbage"],
+    "recipe_ideas": ["Carrot salad", "Carrot soup", "Roasted carrots"]
+  },
+  "cauliflower": {
+    "display_name": "Cauliflower",
+    "category": "Vegetable",
+    "calories_per_100g": "25 kcal",
+    "storage": "Keep refrigerated in a loose bag. Use before browning appears.",
+    "pairs_well_with": ["garlic", "yogurt", "cheese", "lemon", "curry spices"],
+    "recipe_ideas": ["Cauliflower soup", "Roasted cauliflower", "Cauliflower gratin"]
+  },
+  "celery": {
+    "display_name": "Celery",
+    "category": "Vegetable",
+    "calories_per_100g": "16 kcal",
+    "storage": "Keep refrigerated, wrapped or in a container to preserve crunch.",
+    "pairs_well_with": ["carrot", "apple", "lemon", "yogurt", "peanut butter"],
+    "recipe_ideas": ["Celery salad", "Vegetable soup base", "Celery sticks with dip"]
+  },
+  "chard": {
+    "display_name": "Chard",
+    "category": "Leafy green",
+    "calories_per_100g": "19 kcal",
+    "storage": "Keep refrigerated and use within a few days. Wrap lightly in a paper towel.",
+    "pairs_well_with": ["garlic", "yogurt", "lemon", "onion", "olive oil"],
+    "recipe_ideas": ["Chard sauté", "Chard with yogurt", "Chard börek filling"]
+  },
+  "cherry": {
+    "display_name": "Cherry",
+    "category": "Fruit",
+    "calories_per_100g": "63 kcal",
+    "storage": "Keep refrigerated and wash only before eating.",
+    "pairs_well_with": ["yogurt", "dark chocolate", "almonds", "oats", "vanilla"],
+    "recipe_ideas": ["Cherry yogurt bowl", "Cherry smoothie", "Cherry compote"]
+  },
+  "chilli_pepper": {
+    "display_name": "Chilli Pepper",
+    "category": "Vegetable / spice",
+    "calories_per_100g": "40 kcal",
+    "storage": "Keep refrigerated in a dry bag or container. Can be dried for longer storage.",
+    "pairs_well_with": ["tomato", "garlic", "onion", "beans", "lemon"],
+    "recipe_ideas": ["Spicy sauce", "Chilli oil", "Vegetable stir-fry"]
+  },
+  "corn": {
+    "display_name": "Corn",
+    "category": "Vegetable / grain",
+    "calories_per_100g": "86 kcal",
+    "storage": "Keep refrigerated and use soon after purchase for best sweetness.",
+    "pairs_well_with": ["butter", "cheese", "chilli", "lime", "beans"],
+    "recipe_ideas": ["Boiled corn", "Corn salad", "Corn soup"]
+  },
+  "cucumber": {
+    "display_name": "Cucumber",
+    "category": "Vegetable",
+    "calories_per_100g": "15 kcal",
+    "storage": "Keep refrigerated, preferably wrapped or in a container to reduce moisture loss.",
+    "pairs_well_with": ["tomato", "yogurt", "mint", "lemon", "dill"],
+    "recipe_ideas": ["Cacık", "Cucumber salad", "Fresh sandwich"]
+  },
+  "dill": {
+    "display_name": "Dill",
+    "category": "Herb / leafy green",
+    "calories_per_100g": "43 kcal",
+    "storage": "Keep refrigerated. Wrap lightly in a damp paper towel.",
+    "pairs_well_with": ["yogurt", "cucumber", "potato", "fish", "lemon"],
+    "recipe_ideas": ["Dill yogurt sauce", "Potato salad", "Cucumber dill salad"]
+  },
+  "eggplant": {
+    "display_name": "Eggplant",
+    "category": "Vegetable",
+    "calories_per_100g": "25 kcal",
+    "storage": "Keep in a cool place or refrigerate for short-term storage.",
+    "pairs_well_with": ["tomato", "garlic", "pepper", "yogurt", "olive oil"],
+    "recipe_ideas": ["İmam bayıldı", "Roasted eggplant", "Eggplant salad"]
+  },
+  "fig": {
+    "display_name": "Fig",
+    "category": "Fruit",
+    "calories_per_100g": "74 kcal",
+    "storage": "Fresh figs are delicate. Keep refrigerated and consume soon.",
+    "pairs_well_with": ["walnuts", "cheese", "honey", "yogurt", "oats"],
+    "recipe_ideas": ["Fig yogurt bowl", "Fig salad", "Baked figs"]
+  },
+  "garlic": {
+    "display_name": "Garlic",
+    "category": "Bulb vegetable / aromatic",
+    "calories_per_100g": "149 kcal",
+    "storage": "Store in a cool, dry, ventilated place away from direct sunlight.",
+    "pairs_well_with": ["tomato", "yogurt", "olive oil", "lemon", "eggplant"],
+    "recipe_ideas": ["Garlic yogurt sauce", "Roasted garlic", "Garlic tomato sauce"]
+  },
+  "grape": {
+    "display_name": "Grape",
+    "category": "Fruit",
+    "calories_per_100g": "69 kcal",
+    "storage": "Keep refrigerated and wash only before eating.",
+    "pairs_well_with": ["cheese", "walnuts", "yogurt", "oats", "mint"],
+    "recipe_ideas": ["Fruit bowl", "Grape yogurt snack", "Grape salad"]
+  },
+  "green_bean": {
+    "display_name": "Green Bean",
+    "category": "Vegetable",
+    "calories_per_100g": "31 kcal",
+    "storage": "Keep refrigerated in a bag or container and use while crisp.",
+    "pairs_well_with": ["tomato", "onion", "garlic", "olive oil", "lemon"],
+    "recipe_ideas": ["Green beans with olive oil", "Green bean salad", "Vegetable stir-fry"]
+  },
+  "jalapeno": {
+    "display_name": "Jalapeño",
+    "category": "Chilli pepper",
+    "calories_per_100g": "29 kcal",
+    "storage": "Keep refrigerated in a dry bag or container.",
+    "pairs_well_with": ["tomato", "cheese", "corn", "beans", "lime"],
+    "recipe_ideas": ["Salsa", "Pickled jalapeños", "Spicy sandwich topping"]
+  },
+  "kiwi": {
+    "display_name": "Kiwi",
+    "category": "Fruit",
+    "calories_per_100g": "61 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["banana", "strawberry", "yogurt", "orange", "mint"],
+    "recipe_ideas": ["Kiwi smoothie", "Fruit salad", "Kiwi yogurt bowl"]
+  },
+  "leek": {
+    "display_name": "Leek",
+    "category": "Vegetable / aromatic",
+    "calories_per_100g": "61 kcal",
+    "storage": "Keep refrigerated and wash well before cooking.",
+    "pairs_well_with": ["carrot", "potato", "olive oil", "lemon", "rice"],
+    "recipe_ideas": ["Leek with olive oil", "Leek soup", "Leek omelette"]
+  },
+  "lemon": {
+    "display_name": "Lemon",
+    "category": "Citrus fruit",
+    "calories_per_100g": "29 kcal",
+    "storage": "Keep refrigerated for longer freshness or at room temperature for short-term use.",
+    "pairs_well_with": ["mint", "parsley", "fish", "salad", "tea"],
+    "recipe_ideas": ["Lemonade", "Salad dressing", "Lemon tea"]
+  },
+  "lettuce": {
+    "display_name": "Lettuce",
+    "category": "Leafy green",
+    "calories_per_100g": "15 kcal",
+    "storage": "Keep refrigerated. Store dry and wrapped to preserve crispness.",
+    "pairs_well_with": ["tomato", "cucumber", "carrot", "lemon", "olive oil"],
+    "recipe_ideas": ["Green salad", "Lettuce wraps", "Sandwich greens"]
+  },
+  "mango": {
+    "display_name": "Mango",
+    "category": "Fruit",
+    "calories_per_100g": "60 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["yogurt", "lime", "chilli", "banana", "coconut"],
+    "recipe_ideas": ["Mango smoothie", "Mango salsa", "Mango yogurt bowl"]
+  },
+  "melon": {
+    "display_name": "Melon",
+    "category": "Fruit",
+    "calories_per_100g": "34 kcal",
+    "storage": "Keep whole melon at room temperature. Refrigerate after cutting.",
+    "pairs_well_with": ["cheese", "mint", "yogurt", "cucumber", "lime"],
+    "recipe_ideas": ["Melon plate", "Melon smoothie", "Melon salad"]
+  },
+  "mint": {
+    "display_name": "Mint",
+    "category": "Herb / leafy green",
+    "calories_per_100g": "44 kcal",
+    "storage": "Keep refrigerated with stems in water or wrapped lightly in a damp paper towel.",
+    "pairs_well_with": ["yogurt", "lemon", "cucumber", "strawberry", "tea"],
+    "recipe_ideas": ["Mint tea", "Cacık", "Mint lemonade"]
+  },
+  "mushroom": {
+    "display_name": "Mushroom",
+    "category": "Fungus / vegetable-like ingredient",
+    "calories_per_100g": "22 kcal",
+    "storage": "Keep refrigerated in a paper bag or breathable container.",
+    "pairs_well_with": ["garlic", "onion", "cheese", "egg", "thyme"],
+    "recipe_ideas": ["Mushroom omelette", "Mushroom sauté", "Mushroom soup"]
+  },
+  "onion": {
+    "display_name": "Onion",
+    "category": "Bulb vegetable / aromatic",
+    "calories_per_100g": "40 kcal",
+    "storage": "Store in a cool, dry, ventilated place away from potatoes.",
+    "pairs_well_with": ["tomato", "pepper", "garlic", "parsley", "egg"],
+    "recipe_ideas": ["Onion salad", "Caramelized onion", "Soup base"]
+  },
+  "orange": {
+    "display_name": "Orange",
+    "category": "Citrus fruit",
+    "calories_per_100g": "47 kcal",
+    "storage": "Keep at room temperature for short-term use or refrigerate for longer freshness.",
+    "pairs_well_with": ["carrot", "yogurt", "cinnamon", "mint", "dark chocolate"],
+    "recipe_ideas": ["Orange juice", "Fruit salad", "Orange carrot smoothie"]
+  },
+  "papaya": {
+    "display_name": "Papaya",
+    "category": "Fruit",
+    "calories_per_100g": "43 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["lime", "yogurt", "banana", "mint", "chilli"],
+    "recipe_ideas": ["Papaya smoothie", "Fruit salad", "Papaya yogurt bowl"]
+  },
+  "parsley": {
+    "display_name": "Parsley",
+    "category": "Herb / leafy green",
+    "calories_per_100g": "36 kcal",
+    "storage": "Keep refrigerated. Wrap lightly in a paper towel or place stems in water.",
+    "pairs_well_with": ["lemon", "tomato", "onion", "bulgur", "olive oil"],
+    "recipe_ideas": ["Tabbouleh", "Parsley salad", "Herb garnish"]
+  },
+  "pea": {
+    "display_name": "Pea",
+    "category": "Legume / vegetable",
+    "calories_per_100g": "81 kcal",
+    "storage": "Keep fresh peas refrigerated and use soon. Frozen peas can be stored longer.",
+    "pairs_well_with": ["carrot", "potato", "mint", "rice", "onion"],
+    "recipe_ideas": ["Pea stew", "Pea rice", "Pea soup"]
+  },
+  "peach": {
+    "display_name": "Peach",
+    "category": "Fruit",
+    "calories_per_100g": "39 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["yogurt", "cinnamon", "oats", "honey", "almonds"],
+    "recipe_ideas": ["Peach yogurt bowl", "Peach smoothie", "Grilled peach"]
+  },
+  "pear": {
+    "display_name": "Pear",
+    "category": "Fruit",
+    "calories_per_100g": "57 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate to slow further ripening.",
+    "pairs_well_with": ["walnuts", "cheese", "honey", "oats", "cinnamon"],
+    "recipe_ideas": ["Pear oatmeal", "Pear salad", "Baked pear"]
+  },
+  "pineapple": {
+    "display_name": "Pineapple",
+    "category": "Tropical fruit",
+    "calories_per_100g": "50 kcal",
+    "storage": "Keep whole pineapple at room temperature briefly. Refrigerate after cutting.",
+    "pairs_well_with": ["yogurt", "coconut", "mint", "lime", "chicken"],
+    "recipe_ideas": ["Pineapple smoothie", "Fruit bowl", "Pineapple salsa"]
+  },
+  "plum": {
+    "display_name": "Plum",
+    "category": "Fruit",
+    "calories_per_100g": "46 kcal",
+    "storage": "Keep at room temperature until ripe, then refrigerate.",
+    "pairs_well_with": ["yogurt", "cinnamon", "almonds", "oats", "honey"],
+    "recipe_ideas": ["Plum compote", "Plum yogurt bowl", "Baked plum"]
+  },
+  "pomegranate": {
+    "display_name": "Pomegranate",
+    "category": "Fruit",
+    "calories_per_100g": "83 kcal",
+    "storage": "Keep whole pomegranates in a cool place or refrigerate for longer storage.",
+    "pairs_well_with": ["yogurt", "walnuts", "salad greens", "orange", "mint"],
+    "recipe_ideas": ["Pomegranate salad", "Yogurt topping", "Fruit bowl"]
+  },
+  "potato": {
+    "display_name": "Potato",
+    "category": "Root vegetable",
+    "calories_per_100g": "77 kcal",
+    "storage": "Store in a cool, dark, dry place. Keep away from onions.",
+    "pairs_well_with": ["dill", "yogurt", "cheese", "onion", "garlic"],
+    "recipe_ideas": ["Baked potato", "Potato salad", "Mashed potatoes"]
+  },
+  "pumpkin": {
+    "display_name": "Pumpkin",
+    "category": "Vegetable / squash",
+    "calories_per_100g": "26 kcal",
+    "storage": "Keep whole pumpkin in a cool, dry place. Refrigerate after cutting.",
+    "pairs_well_with": ["cinnamon", "yogurt", "walnuts", "honey", "ginger"],
+    "recipe_ideas": ["Pumpkin soup", "Roasted pumpkin", "Pumpkin dessert"]
+  },
+  "radish": {
+    "display_name": "Radish",
+    "category": "Root vegetable",
+    "calories_per_100g": "16 kcal",
+    "storage": "Keep refrigerated. Remove greens if attached to keep roots crisp.",
+    "pairs_well_with": ["lemon", "lettuce", "cucumber", "parsley", "olive oil"],
+    "recipe_ideas": ["Radish salad", "Fresh mezze plate", "Pickled radish"]
+  },
+  "soy_bean": {
+    "display_name": "Soy Bean",
+    "category": "Legume",
+    "calories_per_100g": "173 kcal",
+    "storage": "Keep fresh soybeans refrigerated or use frozen for longer storage.",
+    "pairs_well_with": ["rice", "garlic", "soy sauce", "sesame", "vegetables"],
+    "recipe_ideas": ["Edamame", "Soybean salad", "Vegetable rice bowl"]
+  },
+  "spinach": {
+    "display_name": "Spinach",
+    "category": "Leafy green",
+    "calories_per_100g": "23 kcal",
+    "storage": "Keep refrigerated and dry. Use soon because leafy greens spoil quickly.",
+    "pairs_well_with": ["yogurt", "garlic", "egg", "cheese", "lemon"],
+    "recipe_ideas": ["Spinach with yogurt", "Spinach omelette", "Spinach börek filling"]
+  },
+  "strawberry": {
+    "display_name": "Strawberry",
+    "category": "Fruit",
+    "calories_per_100g": "32 kcal",
+    "storage": "Keep refrigerated and wash only before eating to avoid faster spoilage.",
+    "pairs_well_with": ["yogurt", "chocolate", "banana", "oats", "mint"],
+    "recipe_ideas": ["Strawberry smoothie", "Fruit bowl", "Strawberry yogurt"]
+  },
+  "sweet_potato": {
+    "display_name": "Sweet Potato",
+    "category": "Root vegetable",
+    "calories_per_100g": "86 kcal",
+    "storage": "Store in a cool, dark, dry place. Do not refrigerate raw sweet potatoes.",
+    "pairs_well_with": ["cinnamon", "yogurt", "chilli", "olive oil", "beans"],
+    "recipe_ideas": ["Baked sweet potato", "Sweet potato fries", "Sweet potato bowl"]
+  },
+  "tomato": {
+    "display_name": "Tomato",
+    "category": "Vegetable / fruit-like vegetable",
+    "calories_per_100g": "18 kcal",
+    "storage": "Keep at room temperature if unripe. Refrigerate after ripening if needed.",
+    "pairs_well_with": ["cucumber", "cheese", "basil", "olive oil", "onion"],
+    "recipe_ideas": ["Tomato salad", "Menemen", "Tomato soup"]
+  },
+  "turnip": {
+    "display_name": "Turnip",
+    "category": "Root vegetable",
+    "calories_per_100g": "28 kcal",
+    "storage": "Keep refrigerated. Remove greens if attached.",
+    "pairs_well_with": ["carrot", "potato", "lemon", "olive oil", "parsley"],
+    "recipe_ideas": ["Roasted turnip", "Turnip soup", "Root vegetable stew"]
+  },
+  "watermelon": {
+    "display_name": "Watermelon",
+    "category": "Fruit",
+    "calories_per_100g": "30 kcal",
+    "storage": "Keep whole watermelon at room temperature. Refrigerate after cutting.",
+    "pairs_well_with": ["cheese", "mint", "lime", "cucumber", "feta"],
+    "recipe_ideas": ["Watermelon cheese plate", "Watermelon salad", "Watermelon smoothie"]
+  },
+  "zucchini": {
+    "display_name": "Zucchini",
+    "category": "Vegetable",
+    "calories_per_100g": "17 kcal",
+    "storage": "Keep refrigerated and use while firm.",
+    "pairs_well_with": ["yogurt", "garlic", "dill", "eggplant", "tomato"],
+    "recipe_ideas": ["Zucchini fritters", "Zucchini sauté", "Zucchini yogurt salad"]
+  },
+  "zuchini": {
+    "display_name": "Zucchini",
+    "category": "Vegetable",
+    "calories_per_100g": "17 kcal",
+    "storage": "Keep refrigerated and use while firm.",
+    "pairs_well_with": ["yogurt", "garlic", "dill", "eggplant", "tomato"],
+    "recipe_ideas": ["Zucchini fritters", "Zucchini sauté", "Zucchini yogurt salad"]
+  },
+  "ginger": {
+  "display_name": "Ginger",
+  "category": "Root / aromatic spice",
+  "calories_per_100g": "80 kcal",
+  "storage": "Store fresh ginger in the refrigerator, preferably in a dry bag or airtight container.",
+  "pairs_well_with": ["lemon", "honey", "carrot", "garlic", "tea"],
+  "recipe_ideas": ["Ginger tea", "Carrot ginger soup", "Stir-fry seasoning"]
+  },
+  "grapefruit": {
+  "display_name": "Grapefruit",
+  "category": "Citrus fruit",
+  "calories_per_100g": "42 kcal",
+  "storage": "Keep at room temperature for short-term use or refrigerate for longer freshness.",
+  "pairs_well_with": ["mint", "yogurt", "honey", "orange", "salad greens"],
+  "recipe_ideas": ["Grapefruit salad", "Citrus fruit bowl", "Grapefruit juice"]
+  },
+  "lime": {
+  "display_name": "Lime",
+  "category": "Citrus fruit",
+  "calories_per_100g": "30 kcal",
+  "storage": "Keep refrigerated for longer freshness or at room temperature for short-term use.",
+  "pairs_well_with": ["mint", "avocado", "chilli", "fish", "mango"],
+  "recipe_ideas": ["Lime dressing", "Lime lemonade", "Avocado lime sauce"]
+  },
+  "mandarine": {
+  "display_name": "Mandarine",
+  "category": "Citrus fruit",
+  "calories_per_100g": "53 kcal",
+  "storage": "Keep at room temperature for a few days or refrigerate for longer freshness.",
+  "pairs_well_with": ["yogurt", "dark chocolate", "mint", "walnuts", "oats"],
+  "recipe_ideas": ["Mandarine fruit bowl", "Mandarine yogurt", "Citrus salad"]
+  },
+  "nectarine": {
+  "display_name": "Nectarine",
+  "category": "Fruit",
+  "calories_per_100g": "44 kcal",
+  "storage": "Keep at room temperature until ripe, then refrigerate.",
+  "pairs_well_with": ["yogurt", "almonds", "honey", "oats", "mint"],
+  "recipe_ideas": ["Nectarine smoothie", "Nectarine yogurt bowl", "Grilled nectarine"]
+  },
+  "passion_fruit": {
+  "display_name": "Passion Fruit",
+  "category": "Tropical fruit",
+  "calories_per_100g": "97 kcal",
+  "storage": "Keep at room temperature until wrinkled and ripe, then refrigerate.",
+  "pairs_well_with": ["yogurt", "mango", "banana", "coconut", "lime"],
+  "recipe_ideas": ["Passion fruit yogurt", "Tropical smoothie", "Fruit dessert topping"]
+  }
+}
