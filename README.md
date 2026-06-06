@@ -1,5 +1,7 @@
 # TheFoodINC — Smart Market Assistant
 
+![TheFoodINC Demo](assets/screenshots/screencapture_2.png)
+
 TheFoodINC is a computer vision prototype that classifies grocery, fruit, and vegetable images and presents useful product information to the user.
 
 The project started as an image classification model, but evolved into a user-facing app prototype with confidence-aware predictions, Top-5 alternatives, product information cards, and uncertainty handling.
